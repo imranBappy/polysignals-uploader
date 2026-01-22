@@ -229,7 +229,7 @@ export default function ImageUploaderToolPage() {
         </header>
 
         <section className="grid gap-6 rounded-2xl border border-slate-800 bg-slate-900/40 p-6">
-          <div className="grid gap-3">
+          <div className="grid hidden gap-3">
             <label className="text-sm font-medium text-slate-200" htmlFor="firebase-uid">
               Firebase UID
             </label>
